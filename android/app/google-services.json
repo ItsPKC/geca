@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512535176689",
+    "project_id": "gecaapp",
+    "storage_bucket": "gecaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512535176689:android:ecf0045c6ac90c0fe19050",
+        "android_client_info": {
+          "package_name": "com.icyindia.geca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512535176689-9724kgvpk2o121ifc13vjobeq769nhht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZoAL0J633RABJCfoj0LsbgGqkffq3eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512535176689-9724kgvpk2o121ifc13vjobeq769nhht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
